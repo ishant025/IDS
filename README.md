@@ -252,7 +252,7 @@ XGBClassifier(
 ### Step 1 — Clone & Setup Environment
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/IDS.git
+git clone https://github.com/ishant025/IDS.git
 cd IDS
 chmod +x setup.sh
 ./setup.sh
